@@ -1,0 +1,52 @@
+programming language help us to instruct computer to do some stuff.
+
+- type of lanaguage
+
+1) Procedural language
+ -- specifies a series of well-structure steps and procedure to compose a programme 
+ -- contain a systematic order of statement,functions and commands to complete a task 
+
+2) Functional language
+ -- writing a programm only in pure function i.e never modify variable but only create 
+    new ones as an output
+ -- use in situation where we have to perform lot of different operation on the same set of 
+    data 
+ -- first class functions?
+
+3) object oriented language
+ -- revolve around obeject 
+ -- code + data = object 
+ -- developed to make it easier to develop,debug,reuse and maintain software 
+
+
+static VS Dynamic languages 
+
+static                                   Dynamic language 
+-perform type checking at compile      - perform tyepe checking at runtime 
+ time                              
+-error will show at compile time       -error might not show till program is run 
+-declare datatype before you use it    - no need to declare datatype of variable
+-more control                          - save time in writing code but might give 
+                                            error at runtime 
+
+
+
+notes :-
+ let a = 10 
+ so a is called as refference variable 
+ and the value 10 called as object 
+
+ so variable stored in stack memoery 
+ and object stored in heap memory 
+
+ there is concept when a object doesn't have any referrence then 
+ garbage collector came and delete it from memory.
+
+ 
+
+
+
+
+
+
+
